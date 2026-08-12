@@ -36,6 +36,8 @@ Used a variety of Excel functions to calculate metrics, analyse data, and automa
 - Organised and validated data for accurate reporting.
 - Explored retail and sales trends to support business decision-making.
 
+<img width="2306" height="995" alt="image" src="https://github.com/user-attachments/assets/c06abe85-afc7-4b44-a982-4fc43c4b7b8c" />
+
 ---
 
 ### 📑 PivotTables
@@ -51,6 +53,8 @@ Key insights included identifying:
 - Customer demographics and purchasing trends.
 - Product categories with the strongest sales performance.
 
+<img width="1355" height="422" alt="image" src="https://github.com/user-attachments/assets/4aae6efb-5ec0-4c17-8fa1-127366a4b87c" />
+
 ---
 
 ### 📊 Data Visualisation
@@ -65,6 +69,10 @@ Visualisations helped:
 - Compare sales performance across regions.
 - Identify patterns and trends.
 - Present insights in a clear and engaging format.
+
+<img width="1333" height="424" alt="image" src="https://github.com/user-attachments/assets/4f872f29-b484-47a0-aa4f-61cba914eee1" />
+
+<img width="1064" height="380" alt="image" src="https://github.com/user-attachments/assets/40b4ef06-13c5-4aec-ab58-a35b17398e3d" />
 
 ---
 
