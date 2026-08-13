@@ -17,16 +17,16 @@ This project was completed as part of a **Data Technician Bootcamp**, showcasing
 ### 🧮 Excel Formulas & Functions
 Used a variety of Excel functions to calculate metrics, analyse data, and automate tasks:
 
-- ✅ `SUM()` – Calculate total sales and revenue
-- ✅ `SUMIF()` – Perform conditional calculations
-- ✅ `AVERAGE()` – Calculate overall averages
-- ✅ `AVERAGEIF()` – Analyse category-specific performance
-- ✅ `DATE()` – Create and standardise date values
-- ✅ `MONTH()` – Extract monthly sales trends
-- ✅ `YEAR()` – Analyse annual performance
-- ✅ `UNIQUE()` – Identify distinct values within datasets
-- ✅ `VLOOKUP()` – Retrieve data from lookup tables
-- ✅ `SWITCH()` – Categorise sales volumes into business-defined groups
+-  `SUM()` – Calculate total sales and revenue
+-  `SUMIF()` – Perform conditional calculations
+-  `AVERAGE()` – Calculate overall averages
+-  `AVERAGEIF()` – Analyse category-specific performance
+-  `DATE()` – Create and standardise date values
+-  `MONTH()` – Extract monthly sales trends
+-  `YEAR()` – Analyse annual performance
+-  `UNIQUE()` – Identify distinct values within datasets
+-  `VLOOKUP()` – Retrieve data from lookup tables
+-  `SWITCH()` – Categorise sales volumes into business-defined groups
 
 ---
 
@@ -43,10 +43,10 @@ Used a variety of Excel functions to calculate metrics, analyse data, and automa
 ### 📑 PivotTables
 Created PivotTables to:
 
-- 📍 Summarise sales by county, country, and region.
-- 🛍️ Compare product performance across locations.
-- 📈 Analyse sales trends and profitability.
-- 🔢 Aggregate large datasets into meaningful summaries.
+-  Summarise sales by county, country, and region.
+-  Compare product performance across locations.
+-  Analyse sales trends and profitability.
+-  Aggregate large datasets into meaningful summaries.
 
 Key insights included identifying:
 - Highest-performing countries and regions.
@@ -60,10 +60,10 @@ Key insights included identifying:
 ### 📊 Data Visualisation
 Designed charts and visual reports to communicate findings effectively:
 
-- 📉 Bar Charts
-- 📈 Column Charts
-- 📊 Pivot Charts
-- 📋 Sales Performance Dashboards
+-  Bar Charts
+-  Column Charts
+-  Pivot Charts
+-  Sales Performance Dashboards
 
 Visualisations helped:
 - Compare sales performance across regions.
@@ -86,12 +86,12 @@ Visualisations helped:
 ---
 
 ## 🧰 Tools & Features Used
-- 📗 Microsoft Excel
-- 📊 PivotTables & Pivot Charts
-- 🔍 Filtering & Sorting
-- 🧮 Statistical Functions
-- 📅 Date Functions
-- 🎨 Data Visualisation Tools
+-  Microsoft Excel
+-  PivotTables & Pivot Charts
+-  Filtering & Sorting
+-  Statistical Functions
+-  Date Functions
+-  Data Visualisation Tools
 
 ---
 
